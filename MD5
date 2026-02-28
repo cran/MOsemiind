@@ -1,10 +1,10 @@
-b77cc9da90b3edd39927ceaa893d0eff *DESCRIPTION
+f4ed5125352efec02d08601f1a582f6f *DESCRIPTION
 285445ae730ace78c0b7aada99c28d32 *LICENSE
 adf2a48e8e669697669ba3e9aa5c62e2 *NAMESPACE
 ef950bf5237a432b94d39311437824cd *R/internal_functions.R
 001a0355747c78fa06aa971ae21aea52 *R/launch_app.R
 e522719efaf2db4a8044249537a70d25 *R/server.R
-d8843d936d7f2f59d7fb16508babed58 *inst/app/app.R
+13ef9933811c84dec88d6987dd69c2f9 *inst/app/app.R
 dfbc4b315705447db66f818892b4299f *man/launch_MOsemiind_app.Rd
 6f663313c1aac4d8c45cf652315808e6 *tests/testthat.R
 efaddfc409ba109bd6a9e4770f3fc4f2 *tests/testthat/test-copula.R

@@ -1,6 +1,6 @@
 Package: MOsemiind
 Title: Marshall-Olkin Shock Models with Semi-Independent Time
-Version: 0.1.0
+Version: 0.1.2
 Authors@R: 
    c(person("Andjela", "Mijanovic", email = "andjela.m@ucg.ac.me", role = c("aut", "cre")),
     person("Bozidar", "Popovic", email = "bozidarp@ucg.ac.me", role = "aut"))
@@ -16,9 +16,9 @@ Imports: copula, graphics, pracma, shiny, stats
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2025-02-04 09:36:17 UTC; Andjela
+Packaged: 2026-02-28 14:34:26 UTC; Andjela
 Author: Andjela Mijanovic [aut, cre],
   Bozidar Popovic [aut]
 Maintainer: Andjela Mijanovic <andjela.m@ucg.ac.me>
 Repository: CRAN
-Date/Publication: 2025-02-04 17:30:02 UTC
+Date/Publication: 2026-02-28 15:10:02 UTC
